@@ -1,0 +1,28 @@
+tbody> tr:hover{
+    background-color: rgb(239, 239, 239);
+  }
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+form{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+form > button{
+    margin-top: 10px;
+}
+
+#excluir_h2{
+    margin-bottom: 50px;
+}
+#botao_filtrar{
+    width: 100%;
+}
+
+#cadastrar{
+    width: 100%;
+}
